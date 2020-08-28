@@ -1,4 +1,4 @@
-1:ouvrer le cmd 
-2:marquer py or python3 OwnZe.py
-3:regarder se qui est marquer
-
+1 : ouvre le cmd 
+2 : ecriver "cd Desktop"
+3 : ecriver "cd OwnZe scripte dos "
+4 : ecriver "py OwnZe.py"
